@@ -1,0 +1,9 @@
+Face Emotion Prediction Model:
+
+Used Algorithm: Convolutional Neural Network (CNN)
+
+Used Dataset: FER-2013 (https://www.kaggle.com/datasets/msambare/fer2013)
+
+Model trained on Google Colab
+
+Used Language: Python
