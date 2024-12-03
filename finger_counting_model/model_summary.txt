@@ -1,0 +1,9 @@
+Finger Count Prediction Model:
+
+Used Algorithm: Convolutional Neural Network (CNN)
+
+Used Dataset:Fingers (https://www.kaggle.com/datasets/koryakinp/fingers)
+
+Model trained on Google Colab
+
+Used Language: Python
