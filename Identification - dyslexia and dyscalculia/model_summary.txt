@@ -1,0 +1,9 @@
+Subject Weakness Prediction Model:
+
+Used Algorithm: Logistic Regression
+
+Used Dataset: Collected Dataset
+
+Model trained on Jupyter Notebook
+
+Used Language: Python
