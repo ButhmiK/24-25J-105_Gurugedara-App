@@ -17,6 +17,8 @@ def predict_weakness(sinhala_exam, math_exam, sinhala_incorrect_ratio, math_inco
     prediction_label = "Sinhala" if prediction[0] == 1 else "Math"  
     return prediction_label
 
+    #incorrect ratio = (incorrect answer count / total answer count)*0.5
+
 sinhala_exam = 90
 math_exam = 75
 sinhala_incorrect_ratio = 0.5
