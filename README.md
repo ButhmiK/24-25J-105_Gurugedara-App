@@ -18,7 +18,8 @@ The main problem we discovered is the inability of understandin these children a
 
 
 Architecture Diagram:
-    
+![Architecture Diagram](https://github.com/user-attachments/assets/c9a5ec70-d16f-4c7f-96ea-69478cb79f90)
+
 
 
 Dependancies:
