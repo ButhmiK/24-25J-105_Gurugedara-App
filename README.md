@@ -35,10 +35,10 @@ Dependancies:
 
 Branches and Commits:
 
-IT2123426_Dulanga
-IT21290442_Buthmi
-IT21352676_Hirusha
-IT21229770-Amila
+	IT2123426_Dulanga
+	IT21290442_Buthmi
+	IT21352676_Hirusha
+	IT21229770-Amila
 
 Github commits are done along with the development of the application by each member for their component's progress.
 
